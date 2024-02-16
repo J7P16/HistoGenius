@@ -1,0 +1,16 @@
+:root{
+    --darkRed: #7D0A0A;
+    --red: #BF3131;
+    --peach: #EAD196;
+    --lightPeach: #F3EDC8;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--red);
+}
+
+h1 {
+    color: white;
+}
